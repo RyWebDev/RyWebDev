@@ -206,20 +206,6 @@ In addition to web development, I explore automation tools to simplify repetitiv
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyWebDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ryan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyWebDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
