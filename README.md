@@ -118,17 +118,6 @@ Content management platform for media monitoring teams to upload, manage, and di
 - 📜 **Application Programming Interface (API) Development Training** — August 2024
 - 📊 **Creating Dashboards and Visualizations Using Microsoft Power BI** — September 2023
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyWebDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyWebDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-> GitHub language statistics reflect detectable code in eligible repositories, not every language I use professionally. Private/internal work may not appear.
 
 ## 🤝 Let's Connect
 
