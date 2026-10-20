@@ -1,231 +1,142 @@
-# Hi there, I'm Ryan Panarigan! 👋
+[README.md](https://github.com/user-attachments/files/33703240/README.md)
+<div align="center">
 
-### 👨‍💻 Full-Stack Web Developer | Software Developer
+# 👋 Hi, I'm Ryan Panarigan
 
-I'm a passionate **Full-Stack Web Developer** from the Philippines 🇵🇭, specializing in building scalable, secure, and user-friendly web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Building+Reliable+Web+Applications;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-I have professional experience developing enterprise-level applications, government management systems, RESTful APIs, and database-driven solutions using **Laravel, React, TypeScript, PHP, and MySQL**.
+**Full-Stack Developer · Philippines 🇵🇭**
 
-I enjoy solving complex problems, optimizing application performance, designing efficient databases, and turning real-world business requirements into reliable software solutions.
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=70A5FD)](https://ryanpanarigan.netlify.app)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=70A5FD)](mailto:panariganryan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70A5FD)](https://github.com/RyWebDev)
 
-- 🔭 Currently working as a **Technical Assistant II at the Department of Education (DepEd)**
-- 💼 Former **Information Systems Researcher I at the Bureau of Plant Industry (BPI)**
-- 🌱 Currently exploring **C#, ASP.NET Core, PostgreSQL, Python Automation, and Software Architecture**
-- ⚡ Interested in **Full-Stack Development, RESTful APIs, Database Optimization, and AI-Assisted Development**
-- 🎓 **Bachelor of Science in Computer Science** — Pamantasan ng Lungsod ng Muntinlupa
-- 🌐 **Portfolio:** [ryanpanarigan.netlify.app](https://ryanpanarigan.netlify.app)
-- 📫 **Email:** [panariganryan@gmail.com](mailto:panariganryan@gmail.com)
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-### 🎨 Frontend Development
+I'm a **Full-Stack Web Developer** focused on building maintainable, user-friendly, database-driven applications. My professional work includes government administrative systems, loan processing platforms, HR management, ICT support tools, and reporting workflows.
+
+- 🏛️ **Technical Assistant II** at **Department of Education (DepEd)** — October 2025–Present
+- 💼 Former **Information Systems Researcher I** at **Bureau of Plant Industry (BPI)** — August 2023–September 2025
+- 🎓 **BS Computer Science**, Pamantasan ng Lungsod ng Muntinlupa (2023)
+- 🧩 Interested in **REST APIs, database optimization, software architecture, and automation**
+- 🌱 Exploring **ASP.NET Core, C#, PostgreSQL, and Python automation**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite)
 
-**Technologies:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, Inertia.js, shadcn/ui
+**React · TypeScript · JavaScript · Inertia.js · Tailwind CSS · shadcn/ui**
 
-### ⚙️ Backend Development
+### Backend
 
 ![Backend](https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express,python)
 
-**Technologies:** PHP, Laravel, C#, ASP.NET Core, Node.js, Express.js, Python, Livewire, RESTful APIs, Entity Framework Core
+**Laravel · PHP · Livewire · REST APIs · ASP.NET Core · Entity Framework Core**
 
-### 🗄️ Databases & ORM
+### Databases
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,prisma)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,prisma)
 
-**Technologies:** MySQL, PostgreSQL, SQL, Prisma ORM, Eloquent ORM, Entity Framework Core
+**MySQL · PostgreSQL · SQL · Eloquent ORM · Database Design & Optimization**
 
-**Skills:** Database Design, Relational Database Management, Query Optimization, Data Migration, Data Processing
+### Mobile & Tools
 
-### 📱 Mobile Development
+![Tools](https://skillicons.dev/icons?i=react,git,github,vscode,visualstudio,postman,docker,figma)
 
-![Mobile](https://skillicons.dev/icons?i=react,androidstudio)
+**React Native · Expo · Appwrite · IIS · Netlify · GitHub Copilot · Codex · Excel/VBA · Power BI**
 
-**Technologies:** React Native, Expo, Appwrite
-
-### 🔧 Development Tools & Platforms
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,figma)
-
-**Additional Tools:** IIS, GitHub Copilot, OpenAI Codex, Netlify, Microsoft Power BI, Excel, VBA
-
-### 🧠 Additional Skills
-
-- Full-Stack Web Application Development
-- RESTful API Development and Integration
-- Object-Oriented Programming
-- Database Design and Optimization
-- Software Debugging and Troubleshooting
-- Responsive Web Design
-- Data Migration and Automation
-- Version Control with Git
-- Agile Development Methodologies
-- Problem Solving and Team Collaboration
-
----
+</div>
 
 ## 💼 Professional Experience
 
-### 🏛️ Technical Assistant II
+### 🏛️ Technical Assistant II — Department of Education
+*Employee Account Management Division | October 2025–Present*
 
-**Department of Education (DepEd) — Employee Account Management Division**
+- Develop and maintain features for the **Provident Fund Loan Management System** using Laravel, PHP, React, and MySQL.
+- Design and optimize relational databases for **loan receivables, service fee collections, and aging analysis**.
+- Improve loan tracking, reporting, and workflows in collaboration with cross-functional teams.
 
-*October 2025 – Present*
+### 🏢 Information Systems Researcher I — Bureau of Plant Industry
+*August 2023–September 2025*
 
-- Develop and maintain full-stack features for the Provident Fund Loan Management System using Laravel, PHP, React, and MySQL.
-- Design and optimize relational databases supporting loan receivables, service fee collections, and aging analysis.
-- Develop and improve loan management, financial reporting, and data processing workflows.
-- Collaborate with cross-functional teams to enhance system functionality and improve user experience.
-
-### 🏢 Information Systems Researcher I
-
-**Bureau of Plant Industry (BPI)**
-
-*August 2023 – September 2025*
-
-- Developed and maintained full-stack web applications using Laravel, React, JavaScript, and MySQL.
-- Designed responsive user interfaces and scalable backend systems.
-- Optimized application performance and database queries, contributing to a 20% improvement in system performance and query speed.
-- Provided technical support, system troubleshooting, and documentation.
-- Collaborated with IT teams to translate business requirements into efficient software solutions.
-
----
+- Built and maintained full-stack administrative applications using **Laravel, React, and MySQL**.
+- Translated operational requirements into responsive interfaces and backend functionality.
+- Debugged and optimized applications, contributing to a **20% improvement in system performance and query speed**.
+- Provided tier-2 technical support and authored system documentation.
 
 ## 🚀 Featured Projects
 
+> **Note:** Some professional systems are internal government applications; descriptions are provided without publishing confidential source code.
+
 ### 💰 Provident Fund Loan Management System
+**Laravel · React · MySQL**
 
-**Tech Stack:** Laravel · React · PHP · MySQL
-
-A secure, database-driven application designed to automate government loan processing and financial management.
-
-**Key Features:**
-- Loan application and eligibility management
-- Loan receivables and repayment tracking
-- Principal, interest, and ledger monitoring
-- Service fee collections and aging analysis
-- Financial reporting and database optimization
+Government loan processing platform supporting eligibility checks, repayment tracking, loan receivables, service fee collections, and financial reporting.
 
 ### 👥 Human Resources Management System (HRMS)
+**Laravel · React · TypeScript · MySQL**
 
-**Tech Stack:** Laravel · React · TypeScript · Inertia.js · MySQL
-
-A comprehensive human resource management platform designed to streamline administrative HR operations.
-
-**Key Features:**
-- Employee records and personnel management
-- Office, position, and appointment management
-- Recruitment and job application processing
-- Payroll-related HR workflows
-- Employee reporting and data exports
+HR platform supporting employee records, recruitment, payroll-related processes, personnel management, and reporting.
 
 ### 🛠️ ICS Support Request Management System
+**Laravel · React · MySQL**
 
-**Tech Stack:** Laravel · React · MySQL
-
-A centralized platform developed to improve ICT technical support operations and service request monitoring.
-
-**Key Features:**
-- Technical support request management
-- Request tracking and workflow monitoring
-- Service records management
-- Improved coordination of ICT support activities
+ICT service request management system for tracking requests, coordinating support activities, and improving workflow visibility.
 
 ### 📊 PPMP Monitoring & Budget Tracking System
+**Laravel · JavaScript · MySQL**
 
-**Tech Stack:** Laravel · JavaScript · MySQL
-
-A budget monitoring system designed to streamline government procurement planning and financial tracking.
-
-**Key Features:**
-- Budget allocation and expenditure tracking
-- Procurement plan management
-- Financial monitoring and reporting
-- Budget utilization tracking
+Procurement planning and budget monitoring platform for tracking expenditures and producing financial reports.
 
 ### 🖥️ ICS Equipment Management System
+**Laravel · JavaScript · MySQL**
 
-**Tech Stack:** Laravel · JavaScript · MySQL
-
-A centralized platform for tracking ICT equipment inventory, allocation, and maintenance records.
-
-**Key Features:**
-- ICT equipment inventory management
-- Equipment allocation tracking
-- Historical maintenance records
-- Asset information management
+ICT asset inventory system for tracking equipment allocation, inventory details, and historical maintenance records.
 
 ### 📰 Allium News Monitoring
+**Laravel · JavaScript · MySQL**
 
-**Tech Stack:** Laravel · JavaScript · MySQL
+Content management platform for media monitoring teams to upload, manage, and display news and digital media assets.
 
-A content management system designed for media monitoring teams to organize, manage, and publish news content.
+## 🧠 Other Skills & Interests
 
-**Key Features:**
-- News article management
-- Digital media asset handling
-- Real-time content updates
-- Centralized media monitoring workflows
+- **Development:** REST API design, responsive interfaces, debugging, version control, Agile collaboration
+- **Data:** SQL queries, data migration, relational modeling, performance tuning, reporting
+- **Automation:** Python scripting, Excel/DBF processing, payroll consolidation, VBA, batch file operations
+- **Currently exploring:** C#/.NET, clean architecture, PostgreSQL, AI-assisted development
 
----
-
-## 🐍 Automation & Data Processing
-
-In addition to web development, I explore automation tools to simplify repetitive tasks and improve data processing efficiency.
-
-**Technologies:** Python · Excel · VBA · SQL
-
-**Areas of Focus:**
-- Excel and DBF File Processing
-- Payroll Data Consolidation
-- Data Mapping and Reference Code Lookup
-- Batch File Renaming
-- Offline Desktop Automation
-- Data Validation and Reporting
-
----
-
-## 📚 Currently Learning & Exploring
-
-- Advanced C# and ASP.NET Core
-- Clean Architecture and Software Design Patterns
-- PostgreSQL and Database Performance Optimization
-- Python Automation and Desktop Applications
-- React Native and Cross-Platform Development
-- AI-Assisted Development with GitHub Copilot and Codex
-
----
-
-## 🏆 Certifications & Training
+## 🏆 Training & Certifications
 
 - 📜 **Application Programming Interface (API) Development Training** — August 2024
 - 📊 **Creating Dashboards and Visualizations Using Microsoft Power BI** — September 2023
 
----
+## 📊 GitHub Activity
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://ryanpanarigan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:panariganryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/RyWebDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyWebDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyWebDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <i>💡 "Building reliable software solutions, one line of code at a time."</i>
-</p>
+</div>
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
+> GitHub language statistics reflect detectable code in eligible repositories, not every language I use professionally. Private/internal work may not appear.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=1a1b27)](https://ryanpanarigan.netlify.app)
+[![Email](https://img.shields.io/badge/Send_Me_An_Email-70A5FD?style=for-the-badge&logo=gmail&logoColor=1a1b27)](mailto:panariganryan@gmail.com)
+
+*Building practical software solutions, one line of code at a time.* 🚀
+
+</div>
